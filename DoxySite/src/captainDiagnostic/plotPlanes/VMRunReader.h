@@ -21,7 +21,7 @@
 #include <wordexp.h>
 
 
-/// abstract base class for mixins that read various run data files.
+/// abstracted base class for mixins that read various run data files.
 class VMRunReader {
    
 protected:
