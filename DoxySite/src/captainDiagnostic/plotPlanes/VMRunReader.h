@@ -20,8 +20,7 @@
 #include <fstream>
 #include <wordexp.h>
 
-
-/// abstracted base class for mixins that read various run data files.
+/// abstract base class for mixins that read various run data files.
 class VMRunReader {
    
 protected:
