@@ -18,5 +18,3 @@ git commit -m message
 #is this going to be variable message?  
 
 git push origin
-
-git submodule update
