@@ -7,22 +7,10 @@
 
 var indexSectionsWithContent =
 {
-  0: "cgmprtvw",
-  1: "mtv",
-  2: "cmtv",
-  3: "cgmprtw",
-  4: "r",
-  5: "c"
 };
 
 var indexSectionNames =
 {
-  0: "all",
-  1: "classes",
-  2: "files",
-  3: "functions",
-  4: "typedefs",
-  5: "defines"
 };
 
 function convertToId(search)
