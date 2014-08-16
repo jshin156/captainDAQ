@@ -1,5 +1,7 @@
+
+#yes I know this should probably be in a readme. 
 #script used to update web page.
-#have Doxygen terminal commands installed.
+#have Doxygen installed.
 #for mac: sudo ln -s /Applications/Doxygen.app/Contents/Resources/doxygen /usr/local/bin
 #have git, have git hub account, ask me to add you up.    
 
@@ -8,7 +10,7 @@
 doxygen DoxySite/config3
 
 
-
+git pull
 git add .
  
 message=0
